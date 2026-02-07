@@ -1,4 +1,4 @@
-<meta name='viewport' content='width=device-width, initial-scale=1'/><script>const title = document.getElementById("title");
+const title = document.getElementById("title");
 const message = document.getElementById("message");
 const nextBtn = document.getElementById("nextBtn");
 
